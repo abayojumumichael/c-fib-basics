@@ -61,4 +61,3 @@ Length? 6
 
 - `stage1` links against the recursive implementation.
 - `stage2` links against the iterative implementation.
-- The implementation is intentionally minimal.
